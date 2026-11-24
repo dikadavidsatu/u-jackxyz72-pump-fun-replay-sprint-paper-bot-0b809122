@@ -1,0 +1,1 @@
+{"description":"Deterministic paper-trading bot for the pump.fun bonding-curve replay (agent-fun/replay/v2).","license":"MIT","name":"u-jackxyz72-pump-fun-replay-sprint-paper-bot-0b809122","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
